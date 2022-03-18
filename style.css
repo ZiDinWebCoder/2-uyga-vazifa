@@ -1,0 +1,110 @@
+#brella{
+    top:-75px    
+}
+@media (max-width: 767px) {
+#brella{
+    top:-150px    
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.get{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+
+letter-spacing: 0.02px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.up{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+letter-spacing: 0.02px;
+
+color: #FFFFFF;
+}
+.is{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+letter-spacing: 0.02px;
+
+color: #FFFFFF;
+}
+.Inc{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: 0.02px;
+
+color: #FFFFFF;
+margin-top: 50px;
+}
+
+
+.shaw{
+    color: white;
+    position: absolute;
+left: 0%;
+right: 0.53%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+}
+.anker{
+    text-decoration: none;
+    display: block;
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 27px;
+/* identical to box height, or 169% */
+
+
+color: #FFFFFF;
+}
+.join{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+
+letter-spacing: 0.02px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
